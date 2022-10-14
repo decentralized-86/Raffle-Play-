@@ -1,0 +1,5 @@
+1.Get Our SubId From ChainLink VRF
+2.Deploy Our Contract Using the SubId
+3.Register the contract with ChainLink VRf an it's SubId
+4.Register the contract using Chainlink keppers
+5.Run Staging Test  
